@@ -75,3 +75,7 @@ reorderShares = [""]
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

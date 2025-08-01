@@ -3,7 +3,7 @@ title: 블로그를 잘 남겨보자(3회차)
 date: 2025-08-01T00:48:04+09:00
 lastmod: 2025-08-01
 author: highcloud100
-avatar: graduate/img/real_author.png
+avatar: /graduate/img/real_author.png
 # authorlink: https://author.site
 cover: cover.png
 images:

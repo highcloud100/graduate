@@ -8,4 +8,4 @@ Just writing for memory.
 
 Good luck for you today!
 
-![](/img/author.png)
+![](img/author.png)

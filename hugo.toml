@@ -1,7 +1,7 @@
-baseurl = "https://example.com"
+baseurl = "https://highcloud100.github.io/graduate/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Papers"
+title = "Life, the Computer and Everything"
 theme = "dream"
 enableRobotsTXT = true
 

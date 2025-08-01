@@ -3,7 +3,7 @@ title: Project Hail Mary
 date: 2025-08-01
 lastmod: 2025-08-01
 author: highcloud100
-avatar: /img/real_author.png
+avatar: graduate/img/real_author.png
 # authorlink: https://author.site
 cover: cover.png
 images:
